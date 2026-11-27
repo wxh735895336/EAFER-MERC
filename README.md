@@ -1,10 +1,11 @@
-# EAFER-MERC: Emotion-Aware Formation Reasoning with Adaptive Historical Evidence Retrieval for Multimodal Emotion Recognition in Conversations
+# EAFER-MERC
 
-This repository is reserved for the code of the above paper.
+Official implementation of:
 
-The paper is currently under review. The full implementation, data-preparation
-scripts, training/evaluation commands, and reproduction instructions will be
-released upon acceptance.
+**EAFER-MERC: Emotion-Aware Formation Reasoning with Adaptive Historical Evidence Retrieval for Multimodal Emotion Recognition in Conversations**
 
-For review purposes, please refer to the anonymous link provided in the
-response letter, or contact the authors.
+## Code Release
+
+The source code, experimental configurations, and implementation instructions are currently being organized and will be publicly released within one month of the official publication of the paper.
+
+Thank you for your interest in our work.
